@@ -6,3 +6,5 @@
 2-[To Do List](https://github.com/mock3ng/Frontend-Challenge/tree/To-Do-List) - In this project, you can prepare, delete, save to your browser, edit the to-do list.
 
 3-[Slider](https://github.com/mock3ng/Frontend-Challenge/tree/Slider) - In this project, it is a slider project where the pictures make automatic transitions and you can manage the transitions with buttons if you want.
+
+4-[Cinema Ticket Reservation App](https://github.com/mock3ng/Frontend-Challenge/tree/Cinema-Reservation-App) - In this project, you can choose the movie you want, make a reservation, see the occupied and empty places, and see the price you have to pay in real time.

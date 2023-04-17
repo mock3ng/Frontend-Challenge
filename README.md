@@ -2,7 +2,7 @@
 
 ## It is a uniquely designed cinema ticket application that shows the total price you can buy tickets for movies.
 
-[cine-ticket](https://github.com/mock3ng/Frontend-Challenge/blob/Cinema-Reservation-App/cinema.png)
+![cinema-ticket](https://github.com/mock3ng/Frontend-Challenge/blob/Cinema-Reservation-App/cinema.png)
 
 Selects the HTML elements with class 'container', 'count', 'amount', and 'movie', and all the elements with class 'seat' that do not have the class 'reserved'.
 Calls two functions, 'getFromLocalStorage()' and 'calculateTotal()'.

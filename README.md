@@ -12,3 +12,5 @@
 5-[Calculator App](https://github.com/mock3ng/Frontend-Challenge/tree/Calculator-App) - We made an advanced calculator in this project, it's a nice app to learn development and DOM Manipulations in frontend development journey
 
 6-[Hangman Game](https://github.com/mock3ng/Frontend-Challenge/tree/Hangman-Game) - In This Application Hangman Game Has Been Made
+
+7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/blob/Quiz-App/README.md) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code

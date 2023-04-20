@@ -1,0 +1,134 @@
+
+
+.btn-start{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.btn-start.disable{
+    opacity: 0;
+    pointer-events: none;
+}
+
+.quiz_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,25%);
+    width: 550px;
+    opacity: 0;
+    pointer-events: none;
+    transform: translate(-50%,-50%),scale(0.7);
+    transition: all 0.3s ease;
+}
+
+.quiz_box.active{
+    opacity: 1;
+    pointer-events: auto;
+    transform: translate(-50%,-50%),scale(1)
+}
+
+
+.quiz_box header .title{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.quiz_box .question_text{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.quiz_box .option_list{
+    padding: 18px 0;
+}
+
+.quiz_box .option_list .option{
+    border: 1px solid #151d3b;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.option:hover{
+    color: #112B2c;
+    background: #ffd33d;
+}
+
+.quiz_box .option_list .option.correct{
+    color:  #155724;
+    background-color: #d4edda;
+}
+
+.quiz_box .option_list .option.incorrect{
+    color: #721c24;
+    background: #f8d7da;
+}
+
+
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.option.disabled{
+    pointer-events: none;
+
+}
+
+.btn-next{
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.9);
+    transition: all 0.3s ease;
+}
+
+.btn-next.show{
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
+}
+
+.score_box{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    width: 550px;
+    top: 20%;
+    left: 35%;
+    opacity: 0;
+    pointer-events: none;
+    transform: scale(0.7);
+    transition: all 0.3s ease;
+    
+}
+
+.score_box.active{
+    position: absolute;
+    opacity: 1;
+    pointer-events: auto;
+    transform: scale(1);
+    top: 25%;
+
+    
+}
+
+.score_box .icon{
+    font-size: 90px;
+    color: #151d3b;
+}
+
+.score_box .score_text{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}

@@ -1,4 +1,4 @@
-## Quiz App with Extra Celan Code. (JS,CSS,HTML,BOOTSTRAP)
+## Quiz App with Extra Clean Code. (JS,CSS,HTML,BOOTSTRAP)
 
 ![quizapp](https://github.com/mock3ng/Frontend-Challenge/blob/Quiz-App/quiz.png)
 

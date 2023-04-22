@@ -13,6 +13,6 @@
 
 6-[Hangman Game](https://github.com/mock3ng/Frontend-Challenge/tree/Hangman-Game) - In This Application Hangman Game Has Been Made
 
-7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/blob/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
+7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/tree/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
 
-8-[Course App](https://github.com/mock3ng/Frontend-Challenge/blob/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
+8-[Course App](https://github.com/mock3ng/Frontend-Challenge/tree/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.

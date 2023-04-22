@@ -15,4 +15,4 @@
 
 7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/blob/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
 
-8-[Course App }(https://github.com/mock3ng/Frontend-Challenge/blob/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
+8-[Course App](https://github.com/mock3ng/Frontend-Challenge/blob/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.

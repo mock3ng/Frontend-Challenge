@@ -16,3 +16,5 @@
 7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/tree/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
 
 8-[Course App](https://github.com/mock3ng/Frontend-Challenge/tree/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
+
+9-[Music Player App](https://github.com/mock3ng/Frontend-Challenge/tree/Music-Player) - It offers all the features of a music player where you can load your music and view it dynamically.

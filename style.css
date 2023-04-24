@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+
+
+
+
+.container {
+    width: 400px;
+}
+
+
+
+#progress{
+    margin-bottom: 20px;    
+}
+
+
+.times{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-footer{
+    display: flex ; 
+    justify-content: space-between;
+    align-items: center;
+}
+
+li.playing{
+    background-color: #0b5eb7;
+    color: #fff;
+}

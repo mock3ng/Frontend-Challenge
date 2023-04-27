@@ -18,3 +18,5 @@
 8-[Course App](https://github.com/mock3ng/Frontend-Challenge/tree/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
 
 9-[Music Player App](https://github.com/mock3ng/Frontend-Challenge/tree/Music-Player) - It offers all the features of a music player where you can load your music and view it dynamically.
+
+10 - [Currency Converter App](https://github.com/mock3ng/Frontend-Challenge/tree/Currency-Converter) -With this project, you can convert foreign currencies at current exchange rates.

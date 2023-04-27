@@ -1,20 +1,14 @@
-## Hello, in this field, there are some projects that I have developed in the front-end part, which beginners can learn from and improve themselves. These projects are easy-to-understand and come with explanations. You can see and use the projects below. ( JavaScript , CSS , HTML , BOOTSTRAP )
+## Currency Converter App
+
+![exchanger](https://github.com/mock3ng/Frontend-Challenge/blob/Currency-Converter/exchange.png)
 
 
-1- [Form Validator](https://github.com/mock3ng/Frontend-Challenge/tree/Form-Validator) - This project uses it to create user account. Checks inputs according to desired properties
+It begins by declaring a constant api_key and url, which are used to access the exchange rate API.
 
-2-[To Do List](https://github.com/mock3ng/Frontend-Challenge/tree/To-Do-List) - In this project, you can prepare, delete, save to your browser, edit the to-do list.
+The code then selects elements from the HTML document using querySelector, including two currency selectors, two lists of supported currencies, an amount input, a calculate button, and a result display area.
 
-3-[Slider](https://github.com/mock3ng/Frontend-Challenge/tree/Slider) - In this project, it is a slider project where the pictures make automatic transitions and you can manage the transitions with buttons if you want.
+Next, there is a function called getExchane that takes three parameters: main (the currency being converted from), tochange (the currency being converted to), and amount (the amount of the currency being converted). This function sends a fetch request to the API with the appropriate endpoint, using the provided main currency as the base currency. It then extracts the conversion rate for the tochange currency from the API response, calculates the converted amount, and generates an HTML tag to display the result. Finally, the function updates the result element with the generated tag.
 
-4-[Cinema Ticket Reservation App](https://github.com/mock3ng/Frontend-Challenge/tree/Cinema-Reservation-App) - In this project, you can choose the movie you want, make a reservation, see the occupied and empty places, and see the price you have to pay in real time.
+After that, there is a fetch request to get a list of supported currency codes from the API. The response is converted to JSON format and the list of supported codes is extracted. The code then iterates through this list and generates HTML options for each currency code. The resulting HTML options are inserted into the two currency lists on the page.
 
-5-[Calculator App](https://github.com/mock3ng/Frontend-Challenge/tree/Calculator-App) - We made an advanced calculator in this project, it's a nice app to learn development and DOM Manipulations in frontend development journey
-
-6-[Hangman Game](https://github.com/mock3ng/Frontend-Challenge/tree/Hangman-Game) - In This Application Hangman Game Has Been Made
-
-7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/tree/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
-
-8-[Course App](https://github.com/mock3ng/Frontend-Challenge/tree/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
-
-9-[Music Player App](https://github.com/mock3ng/Frontend-Challenge/tree/Music-Player) - It offers all the features of a music player where you can load your music and view it dynamically.
+Finally, an event listener is added to the calculate button that triggers the getExchane function when clicked. It gets the values from the currencyOne, currencyTwo, and amount inputs and passes them to the getExchane function to perform the conversion and display the result.

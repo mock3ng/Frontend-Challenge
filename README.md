@@ -1,22 +1,31 @@
-## Hello, in this field, there are some projects that I have developed in the front-end part, which beginners can learn from and improve themselves. These projects are easy-to-understand and come with explanations. You can see and use the projects below. ( JavaScript , CSS , HTML , BOOTSTRAP )
+## Explore Our Work-in-Progress Website with JavaScript ES6 and Future Innovations**
+
+We are excited to offer you an exclusive sneak peek into our work-in-progress website, currently developed with JavaScript ES6. While the responsive design is still in development, you can now access a live demo to get a glimpse of what's coming. Additionally, we have exciting plans for the future, including responsive design enhancements and the integration of a machine learning model powered by .NET for product recommendations on the backend.
+
+**Live Demo: A Glimpse into the Future**
+
+Experience the power of JavaScript ES6 and witness our ongoing journey towards a more responsive and dynamic website. The live demo offers you a preview of the following features:
+
+1. **JavaScript ES6**: Explore the website's interactivity, fast-loading pages, and dynamic elements driven by JavaScript ES6. See how this modern technology enhances the user experience.
+
+2. **Content Preview**: Get a feel for our content, including articles, guides, and resources that cater to personal development, education, and a variety of interests.
+
+3. **User-Friendly Interface**: Navigate through our user-friendly interface, designed to make content discovery effortless and enjoyable.
+
+4. **Community Interaction**: Engage with like-minded individuals in our community section. Share your thoughts, ask questions, and connect with others who share your interests.
+
+**Future Enhancements: Responsive Design and Machine Learning**
+
+As we continue to develop our website, here's what you can look forward to in the near future:
+
+**1. Responsive Design**: Our commitment to providing a seamless experience across all devices means that responsive design is on the horizon. Soon, you'll be able to access our website with ease, whether you're on a desktop, tablet, or smartphone.
+
+**2. Machine Learning-Powered Recommendations**: We have exciting plans to integrate a machine learning model powered by .NET on the backend. This technology will revolutionize your browsing experience by offering personalized product recommendations, tailored to your interests and preferences.
+
+**3. User-Driven Innovation**: We value your feedback and suggestions. As we evolve, we'll take your input into account to shape the future of our website, ensuring that it meets your needs and expectations.
+
+In summary, our work-in-progress website, featuring JavaScript ES6, is on its way to becoming a dynamic and responsive platform. We invite you to explore the live demo and join us on this exciting journey. Stay tuned for upcoming enhancements, including responsive design and machine learning-powered product recommendations, as we continue to evolve and provide you with an exceptional online experience. Thank you for being a part of our community!
 
 
-1- [Form Validator](https://github.com/mock3ng/Frontend-Challenge/tree/Form-Validator) - This project uses it to create user account. Checks inputs according to desired properties
 
-2-[To Do List](https://github.com/mock3ng/Frontend-Challenge/tree/To-Do-List) - In this project, you can prepare, delete, save to your browser, edit the to-do list.
-
-3-[Slider](https://github.com/mock3ng/Frontend-Challenge/tree/Slider) - In this project, it is a slider project where the pictures make automatic transitions and you can manage the transitions with buttons if you want.
-
-4-[Cinema Ticket Reservation App](https://github.com/mock3ng/Frontend-Challenge/tree/Cinema-Reservation-App) - In this project, you can choose the movie you want, make a reservation, see the occupied and empty places, and see the price you have to pay in real time.
-
-5-[Calculator App](https://github.com/mock3ng/Frontend-Challenge/tree/Calculator-App) - We made an advanced calculator in this project, it's a nice app to learn development and DOM Manipulations in frontend development journey
-
-6-[Hangman Game](https://github.com/mock3ng/Frontend-Challenge/tree/Hangman-Game) - In This Application Hangman Game Has Been Made
-
-7-[Quiz App](https://github.com/mock3ng/Frontend-Challenge/tree/Quiz-App) - You can dynamically integrate Questions and Answers, easy to understand with extra clean code
-
-8-[Course App](https://github.com/mock3ng/Frontend-Challenge/tree/Course-App) - A web application that can be dynamically saved in local storage where course content and trainee entries will be made is very important for practice.
-
-9-[Music Player App](https://github.com/mock3ng/Frontend-Challenge/tree/Music-Player) - It offers all the features of a music player where you can load your music and view it dynamically.
-
-10 - [Currency Converter App](https://github.com/mock3ng/Frontend-Challenge/tree/Currency-Converter) -With this project, you can convert foreign currencies at current exchange rates.
+[DEMO WEBSİTE](https://singular-mochi-8affd5.netlify.app)

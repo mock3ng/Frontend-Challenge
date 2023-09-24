@@ -1,0 +1,99 @@
+/*! account-content-start  */
+.head-active i {
+    color: #1367ef;
+}
+
+.account-wrapper .container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 12%;
+    gap: 2%;
+
+}
+
+.account-wrapper .container h4 {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.account-wrapper .container .login-content {
+    width: 50%;
+
+}
+
+.account-wrapper .container .login-content .last-password {
+    font-size: 14px;
+    color: #e51414;
+    cursor: pointer;
+}
+
+.account-wrapper .container form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+
+}
+
+.account-wrapper .container form label span {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.account-wrapper .container form label p {
+    color: #e51414;
+
+}
+
+.account-wrapper .container form input {
+    width: 100%;
+}
+
+.account-wrapper .container button {
+    width: 100px;
+    background-color: #e51414;
+    color: #fff;
+    border-color: #e51414;
+    margin-bottom: 15px;
+}
+
+.account-wrapper .container form label .label-text-area {
+    display: flex;
+}
+
+.remember {
+    display: flex;
+    flex-direction: column;
+}
+
+.account-wrapper .container .register-content {
+    width: 50%;
+}
+
+
+.account-wrapper .container .remember span {
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 0.5px;
+}
+
+.account-wrapper .container .remember label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.account-wrapper .container .register-content p {
+    font-size: 12px;
+
+}
+
+.account-wrapper .container .register-content button {
+    margin-top: 15px;
+}
+
+
+
+/*! account-content-end  */

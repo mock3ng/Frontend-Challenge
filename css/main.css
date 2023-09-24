@@ -1,0 +1,20 @@
+@import url(base.css);
+
+@import url(layout/header.css);
+
+
+@import url(components/search-modal.css);
+
+@import url(components/slider.css);
+
+@import url(pages/home.css);
+
+@import url(pages/contact.css);
+
+@import url(pages/account.css);
+
+@import url(pages/bucket.css);
+
+@import url(pages/product.css);
+
+@import url(pages/shop.css);

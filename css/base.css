@@ -1,0 +1,121 @@
+/*! base-css start  */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,400;0,500;0,700;1,300;1,600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+}
+
+ul,
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+
+button {
+    cursor: pointer;
+}
+
+.btn {
+    padding: 0 20px;
+    display: inline-block;
+    line-height: 40px;
+    border: solid 1px black;
+    font-weight: 500;
+    transition: 0.2s ease all;
+
+}
+
+.btn-sm {
+    line-height: 33px;
+}
+
+.btn-lg {
+    line-height: 45px;
+}
+
+.btn-primary {
+    background-color: #1367ef;
+    color: #fff;
+    border: solid 1px #1367ef;
+
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #1367ef;
+
+}
+
+input[type="password"],
+input[type="email"],
+input[type="text"],
+input[type="number"] {
+    outline: none;
+    padding: 8px 8px 8px 15px;
+    border: solid 1px #dee0ea;
+}
+
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="text"]:focus,
+input[type="number"]:focus {
+    border: solid 1px gray;
+}
+
+
+input[type="number"]::-webkit-inner-spin-button {
+    opacity: 1;
+
+}
+
+/*! base-css end  */
+
+/*! container-responsive start  */
+
+@media (max-width : 1280px) {
+    .container {
+        max-width: 992px;
+    }
+}
+
+@media (max-width : 992px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+@media (max-width : 768px) {
+    .container {
+        max-width: 576px;
+    }
+}
+
+/*! container-responsive end  */

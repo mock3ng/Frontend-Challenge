@@ -20,3 +20,5 @@
 9-[Music Player App](https://github.com/mock3ng/Frontend-Challenge/tree/Music-Player) - It offers all the features of a music player where you can load your music and view it dynamically.
 
 10 - [Currency Converter App](https://github.com/mock3ng/Frontend-Challenge/tree/Currency-Converter) -With this project, you can convert foreign currencies at current exchange rates.
+
+11 - [E-commerce Website](https://github.com/mock3ng/Frontend-Challenge/tree/e-commerce-website) -With this project, Explore Our Work-in-Progress Website with JavaScript ES6 and Future Innovations
